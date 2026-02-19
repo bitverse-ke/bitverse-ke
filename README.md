@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @bitverse-ke
-- 👀 I’m interested in mobile development as well as web applications
+- 👋 Hi, I’m Bitverse
+- 👀 I’m interested in web applications as well as mobile
 - 🌱 I’m currently learning machine learning
 - 📫 How to reach me bitverse.ke@gmail.com
 
