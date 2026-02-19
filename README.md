@@ -9,6 +9,8 @@ Currently diving into Machine Learning.
 
 📍 Nairobi, KE.
 
+---
+
 ### 🧰 Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge)
