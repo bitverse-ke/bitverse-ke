@@ -1,4 +1,6 @@
-# 🌱 Bitverse **`Digital Atelier`** 
+# 🌱 Bitverse 
+
+**`Digital Atelier`** 
 
 We are a software developmnemt studio from pixel-perfect frontends to scalable backends and mobile. Passionate builder, relentless problem-solver, and lifelong explorer. Currently diving into Machine Learning. 📍 Nairobi, KE.
 
