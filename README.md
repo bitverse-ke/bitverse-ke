@@ -5,7 +5,7 @@
 We are a software developmnemt studio; from pixel-perfect frontends to scalable backends and mobile. 
 Passionate builder, relentless problem-solver, and lifelong explorer. 
 
-Currently diving into Machine Learning. 
+Currently diving into Embedded systems. 
 
 📍 Nairobi, KE.
 
